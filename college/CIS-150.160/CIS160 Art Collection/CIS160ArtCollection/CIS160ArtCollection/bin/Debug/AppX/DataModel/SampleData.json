@@ -1,0 +1,345 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Artist: TsaoShin / Eric Proctor",
+    "Subtitle": "Grumpy Cat Collection",
+    "ImagePath": "Assets/a_few_of_my_favorite_things_by_tsaoshin-d981h86.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "When You Wish Upon A NO",
+        "Subtitle": "Geppetto chose the worst star to wish upon tonight.",
+        "ImagePath": "Assets/when_you_wish_upon_a_no_by_tsaoshin-d6l6np5.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "I actually grew up drawing with the creator of these images. When I was 13 he hosted a website called The Island Closest to Heaven. It was a collective drawing board that you could all draw on at the same time across the internet. I fell in love with these types of boards and followed Eric for quite some time. His artwork is normally done in Photoshop with a Wacom tablet. Copyright for images are 2013-2016. His works can be found at http://tsaoshin.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "He Mele NO Lilo",
+        "Subtitle": "What have I done?!",
+        "ImagePath": "Assets/he_mele_no_lilo_by_tsaoshin-d6mzn6r.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "This may be the most disastrous combination. Without Lilo to teach Stitch how to be a model citizen, he may have never balanced out. To partner him with Grumpy Cat? PURE EVIL!"
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Bella NO",
+        "Subtitle": "A Meal For Two",
+        "ImagePath": "Assets/bella_no_by_tsaoshin-d72g94x.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "I can't believe how badly I wanted to have spaghetti while I drew this."
+      },
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "Someday My NO Will Come",
+        "Subtitle": "The 10th Grumpy Cat Disney drawing!",
+        "ImagePath": "Assets/someday_my_no_will_come_by_tsaoshin-d7jqfks.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Grumpy Cat does not need some weird face necrophile to save her."
+      },
+      {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "Colors Of The NO",
+        "Subtitle": "John Couldn't Save Grumpy Cat",
+        "ImagePath": "Assets/colors_of_the_no_by_tsaoshin-dab38nz.png.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Look who's back to ruin yet another Disney classic!"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "Artist: Chevsy",
+    "Subtitle": "Ancient Dragons Collection",
+    "ImagePath": "Assets/sovereigns_in_undeath_by_mr__jack-d9esar9.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "Chinese Dragon And Warrior",
+        "Subtitle": "Ride The Beast",
+        "ImagePath": "Assets/chinese_dragon_and_warrior_by_chevsy-daobsp3.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Chevsy is another digital artist that has some great work. His material is copyright 2016 and can be found at: http://chevsy.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "Castle Dragon",
+        "Subtitle": "Devour Thy Enemy",
+        "ImagePath": "Assets/dragon_castle_by_chevsy-dagof6z.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Chevsy is another digital artist that has some great work. His material is copyright 2016 and can be found at: http://chevsy.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-2-Item-3",
+        "Title": "Fire Dragon",
+        "Subtitle": "Smolder Thy Flesh From Bone",
+        "ImagePath": "Assets/dragon_by_chevsy-d9tk0aa.jpg",
+        "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Chevsy is another digital artist that has some great work. His material is copyright 2016 and can be found at: http://chevsy.deviantart.com"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "Artist: Credited Per Image",
+    "Subtitle": "Elf Collection",
+    "ImagePath": "Assets/elf_by_yelou-d5c20a3.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "Battle Elf",
+        "Subtitle": "Artist: Greg Opalinski",
+        "ImagePath": "Assets/battle_elf_by_gopalinski-d4x0ekb.jpg",
+        "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Greg is a traditional artist that has some great work. His material is copyright 2012-2016 and can be found at: http://greg-opalinski.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-3-Item-2",
+        "Title": "The Blue Elf",
+        "Subtitle": "Artist: Delfee",
+        "ImagePath": "Assets/the_blue_elf_by_delfee.jpg",
+        "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": " Delfee is a traditional artist that has some great work. Her material is copyright 2007-2016 and can be found at: http://delfee.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-3-Item-3",
+        "Title": "The Elf",
+        "Subtitle": "Artist: Ryky",
+        "ImagePath": "Assets/the_elf_by_ryky-d5hnxkx.jpg",
+        "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Ryky is another digital artist that has some great work. His material is copyright 2012-2016 and can be found at: http://ryky.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-3-Item-4",
+        "Title": "Beautiful Elf",
+        "Subtitle": "Artist: Nasuki100",
+        "ImagePath": "Assets/beautiful_elf_by_nasuki100-d5k9qgc.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Natsuki is another digital artist that has some great work. His material is copyright 2012-2016 and can be found at: http://nasuki100.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-3-Item-5",
+        "Title": "Elf of Lotus",
+        "Subtitle": "Artist: FredericaYang",
+        "ImagePath": "Assets/elf_of_lotus_by_fredericayang.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "FredaricaYang is another digital artist that has some great work. His material is copyright 2009-2016 and can be found at: http://fredericayang.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-3-Item-6",
+        "Title": "Vagrantdi Elf",
+        "Subtitle": "Vagrantdick",
+        "ImagePath": "Assets/vagrantdi_elf_by_vagrantdick-d5zczip.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Vagrantdick is another digital artist that has some great work. His material is copyright 2013-2016 and can be found at: http://vagrantdick.deviantart.com"
+      },
+      {
+        "UniqueId": "Group-3-Item-7",
+        "Title": "Elf",
+        "Subtitle": "Jex10",
+        "ImagePath": "Assets/elf_by_jex10.jpg",
+        "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Jex10 is another digital artist that has some great work. His material is copyright 2008-2016 and can be found at: http://jex10.deviantart.com"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-4",
+    "Title": "Artist: Credited Per Image",
+    "Subtitle": "The Deer Collection",
+    "ImagePath": "Assets/dream_deer_by_kyoht-d4hl5pj.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-4-Item-1",
+        "Title": "Birth of the Deer",
+        "Subtitle": "Artist: DragonSpirit469",
+        "ImagePath": "Assets/birth_of_the_deer_by_dragonspirit469.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "DragonSpirit is another digital artist that has some great work. His material is copyright 2007-2016 and can be found at: http://dragonspirit469.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-4-Item-2",
+        "Title": "The Deer",
+        "Subtitle": "Artist: Thai-Binturong",
+        "ImagePath": "Assets/the_deer_by_thai_binturong-d5y72no.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Thai-Binturong is another traditional artist that has some great work. His material is copyright 2013-2016 and can be found at: http://thai-binturong.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-4-Item-3",
+        "Title": "The Deer",
+        "Subtitle": "Artist: Yaphleen",
+        "ImagePath": "Assets/deer_by_yaphleen-d53y92k.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Yaphleen is another mixed artist that has some great work. Her material is copyright 2016 and can be found at: http://yaphleen.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-4-Item-4",
+        "Title": "Cosmo Deer",
+        "Subtitle": "Artist: DeerDandy",
+        "ImagePath": "Assets/cosmo_deer_by_momothecat-d5wukel.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "DeerDandy is another mixed artist that has some great work. His material is copyright 2016 and can be found at: http://deerdandy.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-4-Item-5",
+        "Title": "Deer",
+        "Subtitle": "Artist: Galazy",
+        "ImagePath": "Assets/deers_by_galazy.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Galazy is another traditional artist that has some great work. His material is copyright 2008-2016 and can be found at: http://galazy.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-4-Item-6",
+        "Title": "Snow Deer",
+        "Subtitle": "Artist: Fresh4U",
+        "ImagePath": "Assets/snow_deer_by_fresh4u-d4ifhw9.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Fresh4U is another mixed artist that has some great work. His material is copyright 2011-2016 and can be found at: http://fresh4u.deviantart.com"
+
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-5",
+    "Title": "Artist: Credited Per Image",
+    "Subtitle": "Gambit Collection",
+    "ImagePath": "Assets/_____gambit__by_andreibressan.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-5-Item-1",
+        "Title": "Gambit And Rogue",
+        "Subtitle": "Artist: Manapul",
+        "ImagePath": "Assets/gambit_and_rogue_by_manapul.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Manapul is a traditional artist that has some great work. His material is copyright 2008-2016 and can be found at: http://manapul.deviantart.com This piece was Inks with brush and washes with watercolor."
+
+      },
+      {
+        "UniqueId": "Group-5-Item-2",
+        "Title": "Female Gambit",
+        "Subtitle": "Atrist: Steevinlove",
+        "ImagePath": "Assets/dad_5_19_11_gambit_by_steevinlove-d3gs5ni.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Steevinlove is traditional and digital artist that has some great work. His material is copyright 2011-2016 and can be found at: http://steevinlove.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-5-Item-3",
+        "Title": "Ace of Claws",
+        "Subtitle": "Artist: Nefar007",
+        "ImagePath": "Assets/ace_of_claws_by_nefar007-d4dt7sp.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Nefar007 is another digital artist that has some great work. His material is copyright 2011-2016 and can be found at: http://nefar007.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-5-Item-4",
+        "Title": "King of Hearts",
+        "Subtitle": "Artist: Andre B Dois",
+        "ImagePath": "Assets/gambit_by_andrebdois.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Andre is another mixed artist that has some great work. His material is copyright 2006-2016 and can be found at: http://andrebdois.deviantart.com"
+
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-6",
+    "Title": "Artist: Credited Per Image",
+    "Subtitle": "Environmental Collection",
+    "ImagePath": "Assets/0d03e43322bb5421f1550fec070fe051-d5j05xy.jpg",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-6-Item-1",
+        "Title": "Environment 1",
+        "Subtitle": "Artist: Pierre Massine",
+        "ImagePath": "Assets/environment_1_by_pierremassine.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Pierre Massine is another digital artist that has some great work. His material is copyright 2009-2016 and can be found at: http://pierremassine.deviantart.com/"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-2",
+        "Title": "Environment II",
+        "Subtitle": "Artist: Charlie Bowater",
+        "ImagePath": "Assets/environment_ii_by_charlie140588.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Charlie Bowater is another digital artist that has some great work. His material is copyright 2009-2016 and can be found at: http://charlie-bowater.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-3",
+        "Title": "Environment: Pollution",
+        "Subtitle": "Artist: Inetgrafx",
+        "ImagePath": "Assets/environment__pollution_by_i_netgrafx.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Inetgrafx is another digital artist that has some great work. His material is copyright 2005-2016 and can be found at: http://inetgrafx.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-4",
+        "Title": "Environment Experiment 10",
+        "Subtitle": "Artist: Andy Park",
+        "ImagePath": "Assets/environment_experiment_10_by_andyparkart.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Andy Park is another digital artist that has some great work. His material is copyright 2009-2016 and can be found at: http://andyparkart.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-5",
+        "Title": "Environment 01",
+        "Subtitle": "Artist: Francis001",
+        "ImagePath": "Assets/environment_01_by_francis001.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Francis is another digital artist that has some great work. His material is copyright 2007-2016 and can be found at: http://francis001.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-6",
+        "Title": "Seed - Environment 7",
+        "Subtitle": "Artist: Justin Oaksford",
+        "ImagePath": "Assets/seed___environment_7_by_justinoaksford-d516x7y.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Justin is another digital artist that has some great work. His material is copyright 2012-2016 and can be found at: http://justinoaksford.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-7",
+        "Title": "Environment Wip09",
+        "Subtitle": "Artist: Yongs",
+        "ImagePath": "Assets/environment_wip09_by_yongs-d75oq1n.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Yongs is another digital artist that has some great work. His material is copyright 2014-2016 and can be found at: http://yongs.deviantart.com"
+
+      },
+      {
+        "UniqueId": "Group-6-Item-8",
+        "Title": "Environment Experiment 08",
+        "Subtitle": "Artist: Andy Park",
+        "ImagePath": "Assets/environment_experiment_08_by_andyparkart.jpg",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content": "Andy Park is another digital artist that has some great work. His material is copyright 2009-2016 and can be found at: http://andyparkart.deviantart.com"
+
+      }
+    ]
+  }
+]
+}

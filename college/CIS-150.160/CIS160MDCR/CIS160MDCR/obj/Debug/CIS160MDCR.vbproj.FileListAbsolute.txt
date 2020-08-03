@@ -1,0 +1,23 @@
+c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.exe.config
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.exe
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.pdb
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.xml
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.vbprojResolveAssemblyReference.cache
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.frmMobileDev.resources
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.Resources.resources
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.vbproj.GenerateResource.Cache
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.exe
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.xml
+C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.pdb
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.exe.config
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.exe
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.pdb
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\bin\Debug\CIS160MDCR.xml
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.vbprojAssemblyReference.cache
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.frmMobileDev.resources
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.Resources.resources
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.vbproj.GenerateResource.cache
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.vbproj.CoreCompileInputs.cache
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.exe
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.xml
+D:\LT Designs\Documents\ABTU Course Work\CIS-150.160\CIS160MDCR\CIS160MDCR\obj\Debug\CIS160MDCR.pdb

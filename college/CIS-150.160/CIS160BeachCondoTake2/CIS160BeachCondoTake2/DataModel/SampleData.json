@@ -1,0 +1,57 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Century Plaza Condo",
+    "Subtitle": "Oceanfront Emerald Beach",
+    "ImagePath": "Assets/myFirstCondo.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "Century Plaza Condo",
+        "Subtitle": "Oceanfront Emerald Beach",
+        "ImagePath": "Assets/myFirstCondo.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "This oceanfront Emerabld Beach vacation property offers 2 bedroom/2 bath unit and is located in the popular Ocean Drive area.\n Amenities include: Sundecks and Grill facilities. Coin operated laundry facilities in each building. This traditional 2 bedroom, 2 bath unit has a fully equipped kitched with microwave, 2 cable TVs, DVD, telephone, heat and air conditioning. Unit has side ocean view. Two car parking. \n \n NO PETS, MOTORCYCLES, BOATS, TRAILERS or RV's ALLOWED. Accommodates: 6, non-smoking, FREE WIRELESS INTERNET \n \n $499 a week for summer months."
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "Crystal Sands Condo",
+    "Subtitle": "Convenient Location",
+    "ImagePath": "Assets/crystalsands.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "Crystal Sands Condo",
+        "Subtitle": "Convenient Location",
+        "ImagePath": "Assets/crystalsands.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "Conveniently located to all types of family entertainment, this beach condo mid-rise, oceanfront property offers spacious 3 bedroom, 2 bath unit, elevator, a large oceanfront outdoor pool with a wonderful view of the ocean! \n Amenities - This designer decorated unit offers an oceanfront balcony off of the living room, fully equipped kitchen with microwave, 2 flat screen cable TV’s. Two car parking allowed; one on-site/one overflow parking. \n \n NO PETS, MOTORCYCLES, BOATS, RV’S or TRAILERS ALLOWED. FREE WIRELESS INTERNET ACCESS AVAILABLE \n \n $699 to $899 a week for summer month."
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-3",
+    "Title": "Topaz Condo",
+    "Subtitle": "Oceanfront Pool",
+    "ImagePath": "Assets/topaz.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-3-Item-1",
+        "Title": "Item Title: 1",
+        "Subtitle": "Oceanfront Pool",
+        "ImagePath": "Assets/topaz.png",
+        "Description" : "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+        "Content" : "These well-maintained, spacious luxury 3 bedroom and 3 bath designer units offer a gorgeous view from your large oceanfront balcony off the living room and master bedroom. The property amenities include: NICE OCEANFRONT POOL (heated April and Oct), sundeck, outside showers, outdoor grill area, elevators, and lobby key entrance.  The units offer fully equipped kitchen with microwave, several cable TV’s, washer/dryer, and separate shower in master bath. \n \n NO PETS, BOATS, TRAILERS or RV’S ALLOWED. WIRELESS INTERNET ACCESS AVAILABLE \n \n $799 to $1099 a week for summer months."
+      }
+    ]
+  }
+]
+}

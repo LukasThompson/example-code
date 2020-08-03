@@ -1,0 +1,11 @@
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\bin\Debug\FinalGrades.exe.config
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.frmFinalGrades.resources
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.Resources.resources
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.vbproj.GenerateResource.Cache
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.xml
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\bin\Debug\FinalGrades.exe
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\bin\Debug\FinalGrades.pdb
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\bin\Debug\FinalGrades.xml
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.exe
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.pdb
+c:\users\ltdesigns\documents\visual studio 2015\Projects\FinalGrades\FinalGrades\obj\Debug\FinalGrades.vbprojResolveAssemblyReference.cache

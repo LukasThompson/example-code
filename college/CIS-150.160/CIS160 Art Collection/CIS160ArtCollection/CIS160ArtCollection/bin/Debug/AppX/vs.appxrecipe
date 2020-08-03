@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LTDESIGNS-PC</Machine>
+    <WindowsUser>LTDesigns</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2048461a-cb67-45cb-8edc-bfda7e188ad2</PackageIdentityName>
+    <PackageIdentityPublisher>CN=LTDesigns</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>17FCA352680C7161E48A65D9B70989B6EF451E2E7AD28F16F659C2A8EBE22220</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2048461a-cb67-45cb-8edc-bfda7e188ad2_1.0.0.0_neutral__z8jyk86jzby8r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2048461a-cb67-45cb-8edc-bfda7e188ad2_z8jyk86jzby8r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2048461a-cb67-45cb-8edc-bfda7e188ad2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LTDesigns</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T23:25:18.444</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\CIS160ArtCollection.exe">
+      <PackagePath>CIS160ArtCollection.exe</PackagePath>
+      <Modified>2016-11-15T23:25:18.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\0d03e43322bb5421f1550fec070fe051-d5j05xy.jpg">
+      <PackagePath>Assets\0d03e43322bb5421f1550fec070fe051-d5j05xy.jpg</PackagePath>
+      <Modified>2016-11-15T22:24:30.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\ace_of_claws_by_nefar007-d4dt7sp.jpg">
+      <PackagePath>Assets\ace_of_claws_by_nefar007-d4dt7sp.jpg</PackagePath>
+      <Modified>2016-11-15T22:38:45.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\battle_elf_by_gopalinski-d4x0ekb.jpg">
+      <PackagePath>Assets\battle_elf_by_gopalinski-d4x0ekb.jpg</PackagePath>
+      <Modified>2016-11-15T22:13:39.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\beautiful_elf_by_nasuki100-d5k9qgc.jpg">
+      <PackagePath>Assets\beautiful_elf_by_nasuki100-d5k9qgc.jpg</PackagePath>
+      <Modified>2016-11-15T22:56:31.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\bella_no_by_tsaoshin-d72g94x.jpg">
+      <PackagePath>Assets\bella_no_by_tsaoshin-d72g94x.jpg</PackagePath>
+      <Modified>2016-11-15T21:49:37.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\birth_of_the_deer_by_dragonspirit469.jpg">
+      <PackagePath>Assets\birth_of_the_deer_by_dragonspirit469.jpg</PackagePath>
+      <Modified>2016-11-15T22:50:53.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\chinese_dragon_and_warrior_by_chevsy-daobsp3.jpg">
+      <PackagePath>Assets\chinese_dragon_and_warrior_by_chevsy-daobsp3.jpg</PackagePath>
+      <Modified>2016-11-15T22:01:45.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\colors_of_the_no_by_tsaoshin-dab38nz.png.jpg">
+      <PackagePath>Assets\colors_of_the_no_by_tsaoshin-dab38nz.png.jpg</PackagePath>
+      <Modified>2016-11-15T21:53:51.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\dad_5_19_11_gambit_by_steevinlove-d3gs5ni.jpg">
+      <PackagePath>Assets\dad_5_19_11_gambit_by_steevinlove-d3gs5ni.jpg</PackagePath>
+      <Modified>2016-11-15T22:36:45.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\deers_by_galazy.jpg">
+      <PackagePath>Assets\deers_by_galazy.jpg</PackagePath>
+      <Modified>2016-11-15T22:43:30.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\deer_by_yaphleen-d53y92k.jpg">
+      <PackagePath>Assets\deer_by_yaphleen-d53y92k.jpg</PackagePath>
+      <Modified>2016-11-15T22:47:16.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\dragon_by_chevsy-d9tk0aa.jpg">
+      <PackagePath>Assets\dragon_by_chevsy-d9tk0aa.jpg</PackagePath>
+      <Modified>2016-11-15T22:05:01.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\dragon_castle_by_chevsy-dagof6z.jpg">
+      <PackagePath>Assets\dragon_castle_by_chevsy-dagof6z.jpg</PackagePath>
+      <Modified>2016-11-15T22:04:01.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\dream_deer_by_kyoht-d4hl5pj.jpg">
+      <PackagePath>Assets\dream_deer_by_kyoht-d4hl5pj.jpg</PackagePath>
+      <Modified>2016-11-15T22:18:53.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\elf_by_jex10.jpg">
+      <PackagePath>Assets\elf_by_jex10.jpg</PackagePath>
+      <Modified>2016-11-15T23:02:01.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\elf_by_yelou-d5c20a3.jpg">
+      <PackagePath>Assets\elf_by_yelou-d5c20a3.jpg</PackagePath>
+      <Modified>2016-11-15T22:14:08.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\elf_of_lotus_by_fredericayang.jpg">
+      <PackagePath>Assets\elf_of_lotus_by_fredericayang.jpg</PackagePath>
+      <Modified>2016-11-15T22:58:18.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment_01_by_francis001.jpg">
+      <PackagePath>Assets\environment_01_by_francis001.jpg</PackagePath>
+      <Modified>2016-11-15T23:13:49.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment_1_by_pierremassine.jpg">
+      <PackagePath>Assets\environment_1_by_pierremassine.jpg</PackagePath>
+      <Modified>2016-11-15T23:09:14.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment_experiment_08_by_andyparkart.jpg">
+      <PackagePath>Assets\environment_experiment_08_by_andyparkart.jpg</PackagePath>
+      <Modified>2016-11-15T23:17:53.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment_experiment_10_by_andyparkart.jpg">
+      <PackagePath>Assets\environment_experiment_10_by_andyparkart.jpg</PackagePath>
+      <Modified>2016-11-15T23:12:44.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment_ii_by_charlie140588.jpg">
+      <PackagePath>Assets\environment_ii_by_charlie140588.jpg</PackagePath>
+      <Modified>2016-11-15T23:10:46.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment_wip09_by_yongs-d75oq1n.jpg">
+      <PackagePath>Assets\environment_wip09_by_yongs-d75oq1n.jpg</PackagePath>
+      <Modified>2016-11-15T23:15:27.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\environment__pollution_by_i_netgrafx.jpg">
+      <PackagePath>Assets\environment__pollution_by_i_netgrafx.jpg</PackagePath>
+      <Modified>2016-11-15T23:11:44.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\gambit_and_rogue_by_manapul.jpg">
+      <PackagePath>Assets\gambit_and_rogue_by_manapul.jpg</PackagePath>
+      <Modified>2016-11-15T22:31:23.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\gambit_by_andrebdois.jpg">
+      <PackagePath>Assets\gambit_by_andrebdois.jpg</PackagePath>
+      <Modified>2016-11-15T22:40:24.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\he_mele_no_lilo_by_tsaoshin-d6mzn6r.jpg">
+      <PackagePath>Assets\he_mele_no_lilo_by_tsaoshin-d6mzn6r.jpg</PackagePath>
+      <Modified>2016-11-15T21:47:43.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\seed___environment_7_by_justinoaksford-d516x7y.jpg">
+      <PackagePath>Assets\seed___environment_7_by_justinoaksford-d516x7y.jpg</PackagePath>
+      <Modified>2016-11-15T23:19:04.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\snow_deer_by_fresh4u-d4ifhw9.jpg">
+      <PackagePath>Assets\snow_deer_by_fresh4u-d4ifhw9.jpg</PackagePath>
+      <Modified>2016-11-15T22:42:31.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\someday_my_no_will_come_by_tsaoshin-d7jqfks.jpg">
+      <PackagePath>Assets\someday_my_no_will_come_by_tsaoshin-d7jqfks.jpg</PackagePath>
+      <Modified>2016-11-15T21:51:43.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\sovereigns_in_undeath_by_mr__jack-d9esar9.jpg">
+      <PackagePath>Assets\sovereigns_in_undeath_by_mr__jack-d9esar9.jpg</PackagePath>
+      <Modified>2016-11-15T21:58:57.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\the_blue_elf_by_delfee.jpg">
+      <PackagePath>Assets\the_blue_elf_by_delfee.jpg</PackagePath>
+      <Modified>2016-11-15T22:16:54.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\the_deer_by_thai_binturong-d5y72no.jpg">
+      <PackagePath>Assets\the_deer_by_thai_binturong-d5y72no.jpg</PackagePath>
+      <Modified>2016-11-15T22:49:48.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\the_elf_by_ryky-d5hnxkx.jpg">
+      <PackagePath>Assets\the_elf_by_ryky-d5hnxkx.jpg</PackagePath>
+      <Modified>2016-11-15T22:55:31.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\vagrantdi_elf_by_vagrantdick-d5zczip.jpg">
+      <PackagePath>Assets\vagrantdi_elf_by_vagrantdick-d5zczip.jpg</PackagePath>
+      <Modified>2016-11-15T23:01:00.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\_____gambit__by_andreibressan.jpg">
+      <PackagePath>Assets\_____gambit__by_andreibressan.jpg</PackagePath>
+      <Modified>2016-11-15T22:22:45.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\a_few_of_my_favorite_things_by_tsaoshin-d981h86.png">
+      <PackagePath>Assets\a_few_of_my_favorite_things_by_tsaoshin-d981h86.png</PackagePath>
+      <Modified>2016-11-15T21:35:36.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\cosmo_deer_by_momothecat-d5wukel.png">
+      <PackagePath>Assets\cosmo_deer_by_momothecat-d5wukel.png</PackagePath>
+      <Modified>2016-11-15T22:45:34.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\when_you_wish_upon_a_no_by_tsaoshin-d6l6np5.png">
+      <PackagePath>Assets\when_you_wish_upon_a_no_by_tsaoshin-d6l6np5.png</PackagePath>
+      <Modified>2016-11-15T21:37:03.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T23:24:58.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T23:24:29.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T23:23:10.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T23:23:54.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-07T03:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-07T03:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-07T03:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2016-11-15T23:19:12.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\CIS160ArtCollection.xr.xml">
+      <PackagePath>CIS160ArtCollection.xr.xml</PackagePath>
+      <Modified>2016-11-15T22:26:16.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-15T21:35:52.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2016-11-15T21:35:52.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2016-11-15T23:25:18.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ltdesigns\documents\visual studio 2015\Projects\CIS160ArtCollection\CIS160ArtCollection\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T23:25:18.388</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

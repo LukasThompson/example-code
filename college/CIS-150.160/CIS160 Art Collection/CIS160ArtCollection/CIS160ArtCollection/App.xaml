@@ -1,0 +1,13 @@
+﻿<Application
+    x:Class="CIS160ArtCollection.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CIS160ArtCollection"
+    xmlns:localData="using:CIS160ArtCollection.Data">
+
+    <Application.Resources>
+
+        <!-- Application-specific resources -->
+        <x:String x:Key="AppName">CIS160ArtCollection</x:String>
+    </Application.Resources>
+</Application>

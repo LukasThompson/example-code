@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LTDESIGNS-PC</Machine>
+    <WindowsUser>LTDesigns</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>018dd10a-62ce-4485-86a2-7a599706b488</PackageIdentityName>
+    <PackageIdentityPublisher>CN=LTDesigns</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>A0B0DB5F63E3960B807B2D9A072DE30DC3937B93CDEB8ECFEDB2D649CEAADB60</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>018dd10a-62ce-4485-86a2-7a599706b488_1.0.0.0_neutral__z8jyk86jzby8r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>018dd10a-62ce-4485-86a2-7a599706b488_z8jyk86jzby8r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>018dd10a-62ce-4485-86a2-7a599706b488</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LTDesigns</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T03:54:52.332</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\CIS160BeachCondoTake2.exe">
+      <PackagePath>CIS160BeachCondoTake2.exe</PackagePath>
+      <Modified>2016-11-15T03:54:52.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\crystalsands.png">
+      <PackagePath>Assets\crystalsands.png</PackagePath>
+      <Modified>2016-11-15T03:29:07.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\myFirstCondo.png">
+      <PackagePath>Assets\myFirstCondo.png</PackagePath>
+      <Modified>2016-11-15T03:29:07.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\topaz.png">
+      <PackagePath>Assets\topaz.png</PackagePath>
+      <Modified>2016-11-15T03:29:07.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T03:29:07.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T03:29:07.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T03:29:07.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T03:36:41.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2015-07-07T03:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2015-07-07T03:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2015-07-07T03:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2016-11-15T04:28:29.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\CIS160BeachCondoTake2.xr.xml">
+      <PackagePath>CIS160BeachCondoTake2.xr.xml</PackagePath>
+      <Modified>2016-11-15T03:42:06.592</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-15T03:42:06.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2016-11-15T03:42:06.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2016-11-15T03:42:06.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\LTDesigns\documents\visual studio 2015\Projects\CIS160BeachCondoTake2\CIS160BeachCondoTake2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T03:54:52.198</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
